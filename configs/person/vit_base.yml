@@ -52,9 +52,9 @@ TEST:
   FEAT_NORM: 'yes'
 
 DATASETS:
-#   NAMES: ('market1501')
-#   ROOT_DIR: ('')
-# OUTPUT_DIR: ''
+  NAMES: ('synergyreid')
+  ROOT_DIR: ('/groups/gaa50073/atom/mmsports-reid2023/datasets/synergyreid')
+OUTPUT_DIR: '/groups/gaa50073/atom/mmsports-reid2023/datasets/synergyreid/vit_base'
 
 #   NAMES: ('dukemtmc')
 #   ROOT_DIR: ('')
